@@ -5,7 +5,7 @@
 </div>
 
 ## <p style ="color: #8A90FA;">ABOUT THIS PROJECT</p>
-**Cash Back Interactive** is a beginner C# project built as part as my C# programming course. The app takes a dollar amount entered by the user and calculates how to break it into the fewest possible bills (specifically **$20s, $10s, $5s, and $1s**).
+**Cash Back Interactive** is a beginner C# project built as part of my C# programming course. The app takes a dollar amount entered by the user and calculates how to break it into the fewest possible bills (**$20s, $10s, $5s, and $1s**).
 
 This project helped me practice:
 - Windows Form UI design in Visual Studio
