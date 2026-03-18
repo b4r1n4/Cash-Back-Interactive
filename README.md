@@ -1,8 +1,6 @@
 <div align="center">
-# Cash Back Interactive
-### A C sharp WinForms APP that breaks a dollar amount into bills
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-C# 	[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+
+  [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) 
 
 </div>
 
@@ -20,17 +18,19 @@ This project helped me practice:
 ## <p style ="color: #8A90FA;">SCREENSHOTS</p>
 <div align="center">
 
-(insert image here)
+<img width="504" height="379" alt="screenshot1" src="https://github.com/user-attachments/assets/c53e6cb8-333c-4719-b730-3fd1d93459f6" />
 
 *The main application window*
 <br><br>
 
-(insert image here)
-*Entering a dollar amount*
+<img width="499" height="378" alt="screenshot2" src="https://github.com/user-attachments/assets/0786ef7f-cc94-400e-8352-c91af0e623f6" />
+
+*The app displaying the bill amount*
 <br><br>
 
-(insert image here)
-*The app displaying the bill amount*
+<img width="502" height="379" alt="screenshot3" src="https://github.com/user-attachments/assets/ae95015e-9435-4c57-be10-252710016e5d" />
+
+*The app displaying an error message*
 </div>
 
 ## <p style ="color: #8A90FA;">HOW TO USE </p>
